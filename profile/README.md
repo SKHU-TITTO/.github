@@ -41,21 +41,17 @@ COVID-19 팬데믹 이후, 우리의 삶이 대부분 정상화되었지만, 학
 </div>
 
 ## 📱 API
-
-- TITTO Swagger </br> https://titto.store/swagger-ui/index.html
+ - <a href="https://titto.store/swagger-ui/index.html">TITTO Swagger</a>
   <br/><br/>
 
 ## 🎨 Design
 
-- TITTO FIGMA </br> https://www.figma.com/file/bespMbQS0xJlfC1lYVAaYH/Titto?type=design&node-id=0%3A1&mode=dev&t=tz7AkiylK6DLnyuz-1
+ - <a href="https://www.figma.com/file/bespMbQS0xJlfC1lYVAaYH/Titto?type=design&node-id=0%3A1&mode=dev&t=tz7AkiylK6DLnyuz-1">TITTO FIGMA</a>
   <br/><br/>
 
 ## 🗂 Repositories
-
-- [Frontend Repository]
-  </br> https://github.com/SKHU-TITTO/TittoFrontend
-- [Backend Repository]
-  </br> https://github.com/SKHU-TITTO/TittoBackend
+ - <a href="https://github.com/SKHU-TITTO/TittoFrontend">[Frontend Repository]</a>
+ - <a href="https://github.com/SKHU-TITTO/TittoBackend">[Backend Repository]</a>
   <br/><br/>
 
 ## 🖥️ Preview
