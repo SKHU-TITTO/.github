@@ -3,7 +3,8 @@
 
 <i><b>2024. 2. 01 ~ 2024. 04. 01</b></i>
 <br/><br/>
-<a href="https://titto.world/"><img src="https://github.com/SKHU-TITTO/TittoFrontend/assets/49172536/bca57760-6e71-425b-ab35-b29f74c61faf" width=50% /></a></br>
+<a href="https://titto.world/"><img src="https://github.com/SKHU-TITTO/.github/assets/49172536/60afe27c-b94e-48c0-a542-53cf89e38ae1" width="80%"/>
+</a></br>
 <br/><br/>
 
 ### 우리만의 세계 TITTO World
