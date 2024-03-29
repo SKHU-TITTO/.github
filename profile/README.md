@@ -28,9 +28,8 @@ COVID-19 팬데믹 이후, 우리의 삶이 대부분 정상화되었지만, 학
 
 </div>
 
-## 🛠 Tech Stack (Tools, frameworks, distribute)
-
-![TechStack](https://github.com/SKHU-TITTO/.github/assets/49172536/d5e8b3ee-2b2a-4239-87a6-b20e515e9903)
+## 🛠 Tech Stack 
+![tech1](https://github.com/SKHU-TITTO/.github/assets/49172536/d61c1400-6e8e-4b71-ba93-4c025b5ad50e)
 <br/><br/>
 
 ## 🛢 Database ERD
