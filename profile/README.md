@@ -37,7 +37,7 @@ COVID-19 팬데믹 이후, 우리의 삶이 대부분 정상화되었지만, 학
 
 <div align="center">
 
-  <img width="100%" alt="ERD" src="https://github.com/SKHU-TITTO/.github/assets/49172536/7a5dbea4-312b-4fe8-971a-cfbc0088dbb0">
+  <img width="100%" alt="ERD" src="https://github.com/SKHU-TITTO/.github/assets/49172536/f77ae0f1-6a9b-486c-a4ae-4eeed2bdaee9">
 </div>
 
 ## 🏗️ Architecture
