@@ -41,8 +41,9 @@ COVID-19 팬데믹 이후, 우리의 삶이 대부분 정상화되었지만, 학
 </div>
 
 ## 🏗️ Architecture
-![Architecture]() - 추가 예정
+<img width="1245" alt="Architecture" src="https://github.com/SKHU-TITTO/.github/assets/49172536/ad802fcf-8ced-4839-95d6-30114823e528">
 <br/><br/>
+
 
 ## 📱 API
  - <a href="https://titto.store/swagger-ui/index.html">TITTO Swagger</a>
